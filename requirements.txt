@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pymongo[srv]>=4.7
+pydantic>=2.6
+python-dotenv>=1.0
+
+mongodb+srv://Optimus:<Optimus31>@cluster0.s8ny2iw.mongodb.net/?appName=Cluster0
